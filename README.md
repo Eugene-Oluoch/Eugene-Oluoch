@@ -58,5 +58,4 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eugene-oluoch)](https://github.com/yushi1007)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/eugene-oluoch)
-<br><br><br><br><br><br>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Lemmy's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=eugene-oluoch&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
