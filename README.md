@@ -1,16 +1,62 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95283425/152658597-e5f7116a-6039-41d9-b641-e6fb9ce567f4.png" alt="my banner">
+</p>
+<h3 align="center">
+Hi there, I'm Eugene[Crabs] 👋
+</h3>
 
-<!--
-**Eugene-Oluoch/Eugene-Oluoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻 and Designer 🎨!
+</h2> 
 
-Here are some ideas to get you started:
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with me:
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- Angular
+- Python
+- Flask
+- Django
+
+## 🌱 I'm currently learning
+
+- Django
+- Firebase
+- React Context API
+- Styled Components  
+
+## 💼 Technical Skills
+
+![]( 	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![]( 	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![]( 	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![]( 	https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![]( 	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![]( 	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![]( 	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</br>
+
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
+
+</br>
+
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eugene-oluoch)](https://github.com/yushi1007)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/eugene-oluoch)
+<br><br><br><br><br><br>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Lemmy's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=eugene-oluoch&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
