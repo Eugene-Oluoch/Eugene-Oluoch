@@ -8,8 +8,9 @@ Hi there, I'm Eugene 👋
 <h2>
 I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 </h2> 
-
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+Eugene is a Developer, UI/UX designer and Digital Illustrator.
+I went to automotive school and returned a programmer.
+Interested in working together? Lets's have a talk.
 
 ### 🤝 Connect with me:
 </br>
