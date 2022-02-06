@@ -13,7 +13,7 @@ I went to automotive school and returned a programmer.
 Interested in working together? Lets's have a talk.
 
 ### 🤝 Connect with me:
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/eugene-oluoch/eugene-oluoch/main/images/twitter-svgrepo-com.svg" alt="Eugene | Twitter" width="21px"/></a>
+<a href="https://twitter.com/crabs_ke" targer="_blank"><img align="left" src="https://raw.githubusercontent.com/eugene-oluoch/eugene-oluoch/main/images/twitter-svgrepo-com.svg" alt="Eugene | Twitter" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
