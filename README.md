@@ -9,7 +9,7 @@ Hi there, I'm Eugene <img src="https://raw.githubusercontent.com/iampavangandhi/
 </h3>
 
 <h2>
-I'm a Full-Stack Web Developer 💻 and Designer 🎨!
+I'm a Full-Stack Web Developer 💻 and Designer 🎨! [![github folow](https://img.shields.io/github/followers/Eugene-Oluoch?style=social)](https://github.com/Eugene-Oluoch)
 </h2> 
 Eugene is a Developer, UI/UX designer and Digital Illustrator.
 I went to automotive school and returned a programmer.
