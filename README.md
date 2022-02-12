@@ -63,7 +63,5 @@ Interested in working together? Lets's have a talk.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eugene-oluoch)](https://github.com/yushi1007)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/eugene-oluoch)
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
