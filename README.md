@@ -60,8 +60,8 @@ Interested in working together? Lets's have a talk.
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eugene-oluoch)](https://github.com/yushi1007)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eugene-oluoch)](https://github.com/Eugene-Oluoch)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/eugene-oluoch)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene-Oluoch&layout=compact)](https://github.com/eugene-oluoch)
 
 
