@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h3>
-Hi there, I'm Eugene 👋
+Hi there, I'm Eugene �<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 </h3>
 
 <h2>
