@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95283425/152658597-e5f7116a-6039-41d9-b641-e6fb9ce567f4.png"  height="300px" alt="my banner">
 </p>
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 <h3>
 Hi there, I'm Eugene <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 </h3>
