@@ -9,7 +9,7 @@ Hi there, I'm Eugene <img src="https://raw.githubusercontent.com/iampavangandhi/
 </h3>
 
 <h2>
-Full-Stack Web Developer 💻 and Designer 🎨! 
+Aspiring Full-Stack Web Developer 💻 and Designer 🎨! 
 </h2> 
 
 Eugene is a Developer, UI/UX designer and Digital Illustrator.
