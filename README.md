@@ -21,18 +21,6 @@ Interested in working together? Lets's have a talk.
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
-- Angular
-- Python
-- Flask
-- Django
-
-## 🌱 I'm currently learning
-
-- Django
-- Firebase
-- React Context API
-- Styled Components  
 
 ## 💼 Technical Skills
 
