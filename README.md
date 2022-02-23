@@ -50,8 +50,7 @@ Interested in working together? Lets's have a talk.
 
 <div style="display: flex;">
     <div style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Eugene-Oluoch&theme=gotham&custom_title=James%20github%20stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Eugene-Oluoch&theme=gotham&custom_title=Eugene%20github%20stats" />
     </div>
 </div>
 
-![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eugene-Oluoch&theme=gotham&layout=compact)
