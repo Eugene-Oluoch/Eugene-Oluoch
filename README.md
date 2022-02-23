@@ -46,10 +46,12 @@ Interested in working together? Lets's have a talk.
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📈 GitHub Stats 
+## My Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eugene-Oluoch)](https://github.com/Eugene-Oluoch)
+<div style="display: flex;">
+    <div style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Eugene-Oluoch&theme=gotham&custom_title=James%20github%20stats" />
+    </div>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene-Oluoch&layout=compact)](https://github.com/eugene-oluoch)
-
-
+![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eugene-Oluoch&theme=gotham&layout=compact)
