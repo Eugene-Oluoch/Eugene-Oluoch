@@ -46,11 +46,5 @@ Interested in working together? Lets's have a talk.
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## My Github Stats
 
-<div style="display: flex;">
-    <div style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Eugene-Oluoch&theme=gotham&custom_title=Eugene%20github%20stats" />
-    </div>
-</div>
 
