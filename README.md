@@ -58,5 +58,3 @@ Interested in working together? Lets's have a talk.
         <img src="https://github-readme-stats.vercel.app/api?username=Eugene-Oluoch&theme=gotham&custom_title=Eugene's%20github%20stats" />
     </div>
 </div>
-
-![Eugene's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eugene-Oluoch&theme=gotham&layout=compact)
