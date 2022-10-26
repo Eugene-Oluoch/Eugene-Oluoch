@@ -1,3 +1,13 @@
+<h2 align="center">👋 Hello! I'm Eugene Mark Oluoch.</h2>
+<p align="center">
+  <a href="https://twitter.com/crabs_ke">Twitter</a>
+</p>
+
+
+- 🔭 I’m currently working at [Safaricom PLC](https://safaricom.com) in the Service Availability Team
+- 🌱 I’m currently learning more on Observability and better DevOps Practices
+- 💬 Ask me about **Java, JS and Python**
+- 📫 How to reach me: [@crabs_ke](https://twitter.com/crabs_ke) on Twitter
 <div class="wrapper">
   <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Eugene-Oluoch">
 
