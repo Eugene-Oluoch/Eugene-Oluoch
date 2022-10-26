@@ -1,8 +1,4 @@
 <h2 align="center">👋 Hello! I'm Eugene Mark Oluoch.</h2>
-<p align="center">
-  <a href="https://twitter.com/crabs_ke">Twitter</a>
-</p>
-
 
 - 🔭 I’m currently working at [Safaricom PLC](https://safaricom.com) in the Service Availability Team
 - 🌱 I’m currently learning more on Observability and better DevOps Practices
