@@ -2,7 +2,7 @@
 <pre><i><a href="https://rednafi.github.io/reflections" target="_blank">⚙ Eugene Mark Oluoch ⚙</a></i></pre>
 </h2>
 
-<h2 align="center">👋 Hello!</h2>
+<h2>👋 Hello!</h2>
 
 - 🔭 I’m currently working at [Safaricom PLC](https://safaricom.com) in the Service Availability Team
 - 🌱 I’m currently learning more on Observability and better DevOps Practices
