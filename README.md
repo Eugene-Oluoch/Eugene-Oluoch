@@ -27,9 +27,8 @@
 -------
 <div class="wrapper">
   <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Eugene-Oluoch&theme=tokyonight">
-
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Eugene-Oluoch&custom_title=Eugene&theme=radical's%20github%20stats">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eugene-oluoch&show_icons=true&theme=radical">
 </div>
 
 -------
