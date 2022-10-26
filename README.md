@@ -1,6 +1,3 @@
-## My Github Stats
-
-
 <div class="wrapper">
   <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Eugene-Oluoch&theme=gotham">
 
