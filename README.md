@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning more on Observability and better DevOps Practices
 - 💬 Ask me about **Java, JS and Python**
 - 📫 How to reach me: [@crabs_ke](https://twitter.com/crabs_ke) on Twitter
+
+-------
 <div class="wrapper">
   <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Eugene-Oluoch">
 
