@@ -1,3 +1,7 @@
+<h2 align="center">
+<pre><i><a href="https://rednafi.github.io/reflections" target="_blank">⚙ Eugene Mark Oluoch ⚙</a></i></pre>
+</h2>
+
 <h2 align="center">👋 Hello! I'm Eugene Mark Oluoch.</h2>
 
 - 🔭 I’m currently working at [Safaricom PLC](https://safaricom.com) in the Service Availability Team
