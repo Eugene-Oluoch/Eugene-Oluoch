@@ -28,7 +28,7 @@
 <div class="wrapper">
   <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Eugene-Oluoch&theme=tokyonight">
   
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eugene-oluoch&show_icons=true&theme=radical">
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eugene-oluoch&show_icons=true&theme=tokyonight">
 </div>
 
 -------
