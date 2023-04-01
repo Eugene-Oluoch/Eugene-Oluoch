@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working at [Safaricom PLC](https://safaricom.com) in the Service Availability Team
 - 🌱 I’m currently learning more on Observability and better DevOps Practices
-- 💬 Ask me about **Java, JS and Python**
+- 💬 Ask me about **Rust, Java and Python**
 - 📫 How to reach me: [@crabs_ke](https://twitter.com/crabs_ke) on Twitter
 
 
