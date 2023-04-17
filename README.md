@@ -1,9 +1,6 @@
 <!-- <h2 align="center">
 <pre><i><a href="https://rednafi.github.io/reflections" target="_blank">⚙ Eugene Mark Oluoch ⚙</a></i></pre>
 </h2> -->
-<!-- Viewer -->
-<p align="left"><img src="https://komarev.com/ghpvc/?username=eugene-oluoch&label=Profile%20views&color=0e75b6&style=flat" alt="fmahadybd" /> </p>
- 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
