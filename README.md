@@ -7,8 +7,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Rustacean 🦀;Dare%20To%20Dream ✨;Make%20it%20fast 🚀;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-
-- 🔭 I’m currently working at [Safaricom PLC](https://safaricom.com) in the Service Availability Team
 - 🌱 I’m currently learning more about Rust and low-level programming.
 - 💬 Ask me about **Rust, Java or Python**
 - 📫 How to reach me: [@eugene-oluoch](https://www.linkedin.com/in/eugene-oluoch/) on LinkedIn
